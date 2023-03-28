@@ -20,9 +20,9 @@ int main() {
     cin >> yard.width;
 	cout<< endl;
 	
-	cout << "Enter Yard Length : ";
+	cout << "Enter House Length : ";
     cin >> house.length;
-    cout << "Enter Yard Width : ";
+    cout << "Enter House Width : ";
     cin >> house.width;
     cout<< endl;
 
